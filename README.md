@@ -1,3 +1,2 @@
-# happybirthday
-帮基友做的，祝福她女朋友生日快乐
-https://shibobo.github.io/happybirthday/
+# happy Mother's day
+修改的现有仓库，也算是个母亲节礼物咯
